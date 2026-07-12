@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dockyard</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 12 Jul 2026 20:42:56 -0300</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/rschalch/dockyard-releases/releases/download/v0.1.0/Dockyard-0.1.0.dmg" length="8574791" type="application/octet-stream" sparkle:edSignature="1qre4WHQFwuj554ZJmhjN0gZ7yBx99VJD1DuEjLQHdq2JSVOiS3VCGbtfnnDsp0fscGQJLXccOhd4QCN9WccDg=="/>
+        </item>
+    </channel>
+</rss>
