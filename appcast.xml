@@ -3,6 +3,15 @@
     <channel>
         <title>Dockyard</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 13 Jul 2026 21:25:17 -0300</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/rschalch/dockyard-releases/releases/download/v0.2.0/Dockyard-0.2.0.dmg" length="8658231" type="application/octet-stream" sparkle:edSignature="ZBwa+YFd1c6o1Ex7V5hxuCk4OqjxwfXXpYfB9jMhiGO9jt1HInhhqwlBOY0gn/GiHiTPdGsKZYC4jdhvYpOBBg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sun, 12 Jul 2026 20:42:56 -0300</pubDate>
             <sparkle:version>100</sparkle:version>
